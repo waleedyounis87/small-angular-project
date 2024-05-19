@@ -1,0 +1,13 @@
+:root {
+    --main-color: #1abc9c;
+    --second-color: #2c3e50;
+}
+.navbar-section{
+    background-color:  #2c3e50;
+}
+.navbar ul li a{
+    color: #fff
+}
+.current-link{
+    background-color: #1abc9c;
+}

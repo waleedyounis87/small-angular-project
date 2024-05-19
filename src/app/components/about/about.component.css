@@ -1,0 +1,14 @@
+.home{
+    background-color: #1abc9c;
+    padding-inline: 90px;
+}
+.star svg{
+    fill: #fff;
+    width: 30px;
+    padding: 5px;
+}
+.after,.before{
+    width: 100px;
+    height: 5px;
+    background-color: #fff;
+}
